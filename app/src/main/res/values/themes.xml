@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Pulaki" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0E1210</item>
+        <item name="android:windowBackground">#0E1210</item>
+    </style>
+</resources>
